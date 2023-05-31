@@ -9,6 +9,6 @@ Each Task folder contains the following:
 - Pre-Task - research on the industry and use of technology (notes)
 - Task 1 - organisation of a project team, allocation of tasks (Gantt Chart, pricing plan, rationale)
 - Task 2 - error and fault finding from a piece of code made by the exam board (example python file, test log)
-- Task 3 -
+- Task 3 - flowchart for the project and how the data will be used across it.
 - Task 4a - Finalised project file based on the sample design (python file, csv file to pull data from)
 - Task 4b - evaluation.
